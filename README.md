@@ -1,2 +1,0 @@
-# Vulpix
-Vulpix
